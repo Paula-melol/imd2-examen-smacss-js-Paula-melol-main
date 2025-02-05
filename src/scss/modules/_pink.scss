@@ -1,0 +1,31 @@
+.pink-sesame {
+  background: var(--green, #a0d187);
+  display: flex;
+  width: 416px;
+  padding: 0px 40px 20px 40px;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+.pink-title {
+  color: var(--dark-blue, #005564);
+  text-align: center;
+  font-family: "Francois One";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.pink-info {
+  color: #005564;
+}
+
+.pink-text {
+  color: var(--dark-blue, #005564);
+  text-align: center;
+  font-family: "Nunito Sans";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
